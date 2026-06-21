@@ -1,4 +1,4 @@
----
+111111111111141141411111---
 id: config_file
 title: Specifying a config file
 ---
@@ -7,7 +7,12 @@ import {ExampleGithubLink} from "@site/src/components/GithubLink"
 
 <ExampleGithubLink to="examples/tutorials/basic/your_first_hydra_app/2_config_file"/>
 
-It can get tedious to type all those command line arguments. 
+It can get tedious to type all those 
+
+.
+
+
+command line arguments. 
 You can solve it by creating a configuration file next to my_app.py.
 Hydra configuration files are yaml files and should have the .yaml file extension.
 
